@@ -1,7 +1,7 @@
 {
   "app": "Zynova",
-  "latestVersion": "1.0.5",
-  "minimumVersion": "1.0.5",
+  "latestVersion": "1.0.0",
+  "minimumVersion": "1.0.0",
   "forceUpdate": true,
   "downloadUrl": "https://zynova-executor.com/",
   "message": "A new version has released! Use the latest one."
